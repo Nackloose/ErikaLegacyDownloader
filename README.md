@@ -7,8 +7,6 @@ Export the `Testimonials` Grid View from airtable.
 
 Place the exported `Testimonials-Grid view.csv` in the same folder as the exe/ahk.
 
-Run the ahk script or the exe.
-
 Click download.
 
 All entries with attachments should have their attachements downloaded in `attachements/{Name}/{...attachements}`
